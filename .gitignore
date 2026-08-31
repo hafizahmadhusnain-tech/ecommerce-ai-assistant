@@ -1,0 +1,5 @@
+.env
+venv
+docker
+.node_modules
+__pycache__
